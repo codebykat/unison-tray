@@ -4,6 +4,10 @@
 
 Provides a tray icon for the great `unison`_ file synchronizer.
 
+This is a fork of `unison-tray`_, with pull requests:
+
+- `Upgraded to run on Mavericks, with virtualenv and requirements.txt`_
+
 
 Features
 ========
@@ -82,6 +86,8 @@ can do whatever you want with this stuff. If we meet some day, and you think
 this stuff is worth it, you can buy me a beer in return.
 
 
+.. _unison-tray: https://github.com/jone/unison-tray
+.. _Upgraded to run on Mavericks, with virtualenv and requirements.txt: https://github.com/jone/unison-tray/pull/1
 .. _unison: http://www.cis.upenn.edu/~bcpierce/unison
 .. _homebrew: http://mxcl.github.com/homebrew/
 .. _jone: http://github.com/jone
