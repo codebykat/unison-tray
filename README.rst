@@ -36,7 +36,7 @@ Installation
 
 ::
 
-    $ git clone https://github.com/jone/unison-tray.git
+    $ git clone https://github.com/codebykat/unison-tray.git
     $ cd unison-tray
     $ virtualenv venv --setuptools
     $ source venv/bin/activate
