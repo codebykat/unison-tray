@@ -1,3 +1,4 @@
+-e .
+distribute==0.7.3
 pyobjc-core==2.5.1
 pyobjc-framework-Cocoa==2.5.1
-distribute==0.7.3
